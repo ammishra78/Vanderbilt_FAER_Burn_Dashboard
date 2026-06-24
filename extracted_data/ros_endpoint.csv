@@ -1,0 +1,93 @@
+patient_id,visit_day,treatment,sample_ros_mfi,ns_ros_mfi,adjusted_ros_mfi,source_file,sheet_name,parser
+1,Day 1,GCSF,4060.04,819.56,3240.48,"Burn Patient #1 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+1,Day 1,MPLA,7229.57,819.56,6410.01,"Burn Patient #1 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+1,Day 1,Vehicle,3789.91,819.56,2970.35,"Burn Patient #1 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+1,Day 3,GCSF,5388.85,1060.45,4328.4,"Burn Patient #1 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+1,Day 3,MPLA,8166.34,1060.45,7105.89,"Burn Patient #1 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+1,Day 3,Vehicle,5609.94,1060.45,4549.49,"Burn Patient #1 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+1,Discharge,GCSF,3826.3,659.17,3167.13,"Burn Patient #1 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+1,Discharge,MPLA,5268.02,659.17,4608.85,"Burn Patient #1 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+1,Discharge,Vehicle,3065.38,659.17,2406.21,"Burn Patient #1 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+10,Day 1,GCSF,35616.22,700.45,34915.77,Burn Patient #10 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+10,Day 1,MPLA,31032.64,700.45,30332.19,Burn Patient #10 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+10,Day 1,Vehicle,27866.82,700.45,27166.37,Burn Patient #10 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+10,Day 3,MPLA,35324.13,553.51,34770.62,Burn Patient #10 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+10,Day 3,Vehicle,32860.31,553.51,32306.8,Burn Patient #10 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+10,Day 7,GCSF,32823.18,604.12,32219.06,Burn Patient #10 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+10,Day 7,MPLA,33885.5,604.12,33281.38,Burn Patient #10 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+10,Day 7,Vehicle,31846.92,604.12,31242.8,Burn Patient #10 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+11,Day 3,MPLA,16984.22,740.18,16244.04,Burn Patient #11 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+11,Day 3,Vehicle,14705.59,740.18,13965.41,Burn Patient #11 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+12,Day 1,GCSF,6796.32,748.31,6048.01,Burn Patient #12 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+12,Day 1,MPLA,7870.35,748.31,7122.04,Burn Patient #12 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+12,Day 1,Vehicle,5857.07,748.31,5108.76,Burn Patient #12 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+12,Day 3,GCSF,37617.59,956.56,36661.03,Burn Patient #12 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+12,Day 3,MPLA,33740.18,956.56,32783.62,Burn Patient #12 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+12,Day 3,Vehicle,25619.64,956.56,24663.08,Burn Patient #12 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+12,Day 7,GCSF,96079.89,559.99,95519.9,Burn Patient #12 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+12,Day 7,MPLA,173513.78,559.99,172953.79,Burn Patient #12 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+12,Day 7,Vehicle,128150.12,559.99,127590.13,Burn Patient #12 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+13,Day 1,MPLA,21988.85,342.7,21646.15,Burn Patient #13 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+13,Day 1,Vehicle,15669.8,342.7,15327.1,Burn Patient #13 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+13,Day 7,MPLA,31957.52,326.69,31630.83,Burn Patient #13 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+13,Day 7,Vehicle,29757.69,326.69,29431.0,Burn Patient #13 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+14,Day 1,MPLA,15954.93,555.77,15399.16,Burn Patient #14 #15 #16 Phagocytosis and ROS Production.xlsx,Patient 14 ROS Production,ros_sheet
+14,Day 1,Vehicle,7663.7,555.77,7107.93,Burn Patient #14 #15 #16 Phagocytosis and ROS Production.xlsx,Patient 14 ROS Production,ros_sheet
+14,Day 7,MPLA,37511.08,521.22,36989.86,Burn Patient #14 #15 #16 Phagocytosis and ROS Production.xlsx,Patient 14 ROS Production,ros_sheet
+14,Day 7,Vehicle,31121.22,521.22,30600.0,Burn Patient #14 #15 #16 Phagocytosis and ROS Production.xlsx,Patient 14 ROS Production,ros_sheet
+15,Day 1,MPLA,7446.12,401.08,7045.04,Burn Patient #14 #15 #16 Phagocytosis and ROS Production.xlsx,Patient 15 ROS Production,ros_sheet
+15,Day 1,Vehicle,5335.7,401.08,4934.62,Burn Patient #14 #15 #16 Phagocytosis and ROS Production.xlsx,Patient 15 ROS Production,ros_sheet
+15,Day 7,MPLA,6428.08,474.79,5953.29,Burn Patient #14 #15 #16 Phagocytosis and ROS Production.xlsx,Patient 15 ROS Production,ros_sheet
+15,Day 7,Vehicle,7070.18,474.79,6595.39,Burn Patient #14 #15 #16 Phagocytosis and ROS Production.xlsx,Patient 15 ROS Production,ros_sheet
+16,Day 1,MPLA,10640.84,424.32,10216.52,Burn Patient #14 #15 #16 Phagocytosis and ROS Production.xlsx,Patient 16 ROS Production,ros_sheet
+16,Day 1,Vehicle,7536.79,424.32,7112.47,Burn Patient #14 #15 #16 Phagocytosis and ROS Production.xlsx,Patient 16 ROS Production,ros_sheet
+16,Day 7,MPLA,7521.19,532.08,6989.11,Burn Patient #14 #15 #16 Phagocytosis and ROS Production.xlsx,Patient 16 ROS Production,ros_sheet
+16,Day 7,Vehicle,7177.03,532.08,6644.95,Burn Patient #14 #15 #16 Phagocytosis and ROS Production.xlsx,Patient 16 ROS Production,ros_sheet
+19,Day 3,MPLA,34557.75,876.55,33681.2,Burn Patient #19 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+19,Day 3,Vehicle,23596.55,876.55,22720.0,Burn Patient #19 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+2,Day 1,GCSF,14887.38,867.43,14019.95,"Burn Patient #2 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+2,Day 1,MPLA,17425.79,867.43,16558.36,"Burn Patient #2 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+2,Day 1,Vehicle,14324.19,867.43,13456.76,"Burn Patient #2 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+2,Day 3,GCSF,14374.19,1373.87,13000.32,"Burn Patient #2 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+2,Day 3,MPLA,17705.98,1373.87,16332.11,"Burn Patient #2 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+2,Day 3,Vehicle,14300.4,1373.87,12926.53,"Burn Patient #2 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+2,Day 7,GCSF,17756.41,1187.81,16568.6,"Burn Patient #2 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+2,Day 7,MPLA,19537.69,1187.81,18349.88,"Burn Patient #2 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+2,Day 7,Vehicle,13991.79,1187.81,12803.98,"Burn Patient #2 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+3,Day 1,GCSF,2862.65,618.68,2243.97,"Burn Patient #3 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS,ros_sheet
+3,Day 1,MPLA,3595.72,618.68,2977.04,"Burn Patient #3 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS,ros_sheet
+3,Day 1,Vehicle,2732.88,618.68,2114.2,"Burn Patient #3 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS,ros_sheet
+3,Day 3,GCSF,5597.91,608.56,4989.35,"Burn Patient #3 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS,ros_sheet
+3,Day 3,MPLA,7827.51,608.56,7218.95,"Burn Patient #3 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS,ros_sheet
+3,Day 3,Vehicle,4777.36,608.56,4168.8,"Burn Patient #3 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS,ros_sheet
+4,Day 1,GCSF,3249.63,938.55,2311.08,"Burn Patient #4 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+4,Day 1,MPLA,3232.01,938.55,2293.46,"Burn Patient #4 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+4,Day 1,Vehicle,2423.35,938.55,1484.8,"Burn Patient #4 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+4,Day 7,GCSF,5110.74,793.42,4317.32,"Burn Patient #4 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+4,Day 7,MPLA,8530.25,793.42,7736.83,"Burn Patient #4 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+4,Day 7,Vehicle,5151.25,793.42,4357.83,"Burn Patient #4 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+4,Discharge,GCSF,6102.21,741.0,5361.21,"Burn Patient #4 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+4,Discharge,MPLA,6808.48,741.0,6067.48,"Burn Patient #4 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+4,Discharge,Vehicle,8386.68,741.0,7645.68,"Burn Patient #4 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+5,Day 1,GCSF,9084.94,939.07,8145.87,"Burn Patient #5 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+5,Day 1,MPLA,11576.73,939.07,10637.66,"Burn Patient #5 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+5,Day 1,Vehicle,9332.9,939.07,8393.83,"Burn Patient #5 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+5,Day 8,GCSF,6797.78,612.67,6185.11,"Burn Patient #5 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+5,Day 8,MPLA,7803.5,612.67,7190.83,"Burn Patient #5 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+5,Day 8,Vehicle,6601.91,612.67,5989.24,"Burn Patient #5 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+6,Day 1,GCSF,6546.13,593.91,5952.22,"Burn Patient #6 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+6,Day 1,MPLA,8140.13,593.91,7546.22,"Burn Patient #6 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+6,Day 1,Vehicle,6997.29,593.91,6403.38,"Burn Patient #6 Phagocytosis, ROS Production, Mitotracker and TMRM.xlsx",ROS Production,ros_sheet
+7,Day 1,MPLA,4212.02,729.93,3482.09,Burn Patient #7 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+7,Day 1,Vehicle,3018.27,729.93,2288.34,Burn Patient #7 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+7,Day 3,MPLA,4742.9,882.21,3860.69,Burn Patient #7 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+7,Day 3,Vehicle,4122.2,882.21,3239.99,Burn Patient #7 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+8,Day 1,MPLA,13618.86,502.47,13116.39,Burn Patient #8 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+8,Day 1,Vehicle,10981.25,502.47,10478.78,Burn Patient #8 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+8,Day 3,MPLA,13089.77,575.89,12513.88,Burn Patient #8 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+8,Day 3,Vehicle,14392.44,575.89,13816.55,Burn Patient #8 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+8,Day 7,GCSF,14924.5,236.78,14687.72,Burn Patient #8 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+8,Day 7,MPLA,13925.24,236.78,13688.46,Burn Patient #8 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+8,Day 7,Vehicle,15884.71,236.78,15647.93,Burn Patient #8 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+8,Discharge,MPLA,62137.95,672.46,61465.49,Burn Patient #8 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet
+8,Discharge,Vehicle,62646.58,672.46,61974.12,Burn Patient #8 Phagocytosis and ROS Production.xlsx,ROS Production,ros_sheet

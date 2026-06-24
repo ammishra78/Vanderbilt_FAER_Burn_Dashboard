@@ -1,0 +1,87 @@
+patient_id,visit_day,treatment,phagocytosis_adjusted_mfi_final,phagocytosis_source
+1,Discharge,GCSF,5571.6667,raw_kinetics
+1,Discharge,MPLA,8018.6667,raw_kinetics
+1,Discharge,Vehicle,4647.0,raw_kinetics
+10,Day 1,GCSF,8178.75,raw_kinetics
+10,Day 1,MPLA,11466.5,raw_kinetics
+10,Day 1,Vehicle,12682.25,raw_kinetics
+10,Day 3,MPLA,9102.2,raw_kinetics
+10,Day 3,Vehicle,6951.6,raw_kinetics
+10,Day 7,GCSF,11099.0,raw_kinetics
+10,Day 7,MPLA,9980.75,raw_kinetics
+10,Day 7,Vehicle,8995.75,raw_kinetics
+10,Discharge,GCSF,11099.0,raw_kinetics
+10,Discharge,MPLA,9980.75,raw_kinetics
+10,Discharge,Vehicle,8995.75,raw_kinetics
+11,Day 3,MPLA,4923.6667,raw_kinetics
+11,Day 3,Vehicle,2904.6667,raw_kinetics
+12,Day 3,GCSF,4961.25,raw_kinetics
+12,Day 3,MPLA,5431.25,raw_kinetics
+12,Day 3,Vehicle,5138.5,raw_kinetics
+12,Day 7,GCSF,6722.1,raw_kinetics
+12,Day 7,MPLA,7124.9,raw_kinetics
+12,Day 7,Vehicle,6535.1,raw_kinetics
+13,Day 1,MPLA,3248.0,raw_kinetics
+13,Day 1,Vehicle,2717.2,raw_kinetics
+13,Day 7,MPLA,11180.2,raw_kinetics
+13,Day 7,Vehicle,10989.2,raw_kinetics
+14,Day 1,MPLA,7759.3333,raw_kinetics
+14,Day 1,Vehicle,8042.0,raw_kinetics
+15,Day 1,MPLA,12243.3333,raw_kinetics
+15,Day 1,Vehicle,14837.6667,raw_kinetics
+15,Day 7,MPLA,13310.25,raw_kinetics
+15,Day 7,Vehicle,13727.25,raw_kinetics
+16,Day 1,MPLA,6436.6667,raw_kinetics
+16,Day 1,Vehicle,9678.6667,raw_kinetics
+16,Day 7,MPLA,4115.25,raw_kinetics
+16,Day 7,Vehicle,4556.5,raw_kinetics
+19,Day 3,MPLA,2288.75,raw_kinetics
+19,Day 3,Vehicle,3162.25,raw_kinetics
+2,Day 1,GCSF,9944.0,raw_kinetics
+2,Day 1,MPLA,13777.3333,raw_kinetics
+2,Day 1,Vehicle,8817.3333,raw_kinetics
+2,Day 3,GCSF,2960.5,raw_kinetics
+2,Day 3,MPLA,5477.0,raw_kinetics
+2,Day 3,Vehicle,131.5,raw_kinetics
+2,Day 7,GCSF,7384.1667,raw_kinetics
+2,Day 7,MPLA,8869.3333,raw_kinetics
+2,Day 7,Vehicle,9012.1667,raw_kinetics
+20,Day 1,MPLA,1480.4,raw_kinetics
+20,Day 1,Vehicle,1596.9714,raw_kinetics
+3,Day 1,GCSF,5084.0,raw_kinetics
+3,Day 1,MPLA,8706.5,raw_kinetics
+3,Day 1,Vehicle,1167.0,raw_kinetics
+3,Day 3,GCSF,7384.1667,raw_kinetics
+3,Day 3,MPLA,8869.3333,raw_kinetics
+3,Day 3,Vehicle,9012.1667,raw_kinetics
+4,Day 1,GCSF,7571.0,raw_kinetics
+4,Day 1,MPLA,10335.3333,raw_kinetics
+4,Day 1,Vehicle,3208.3333,raw_kinetics
+4,Day 7,GCSF,2361.0,raw_kinetics
+4,Day 7,MPLA,3374.25,raw_kinetics
+4,Day 7,Vehicle,3427.0,raw_kinetics
+4,Discharge,GCSF,5219.5,raw_kinetics
+4,Discharge,MPLA,8043.5,raw_kinetics
+4,Discharge,Vehicle,6353.5,raw_kinetics
+5,Day 7,GCSF,9441.0,backfilled_combined_am_raw_kinetics_unavailable
+5,Day 7,MPLA,6446.0,backfilled_combined_am_raw_kinetics_unavailable
+5,Day 7,Vehicle,5904.0,backfilled_combined_am_raw_kinetics_unavailable
+5,Day 8,GCSF,9441.3333,raw_kinetics
+5,Day 8,MPLA,6446.25,raw_kinetics
+5,Day 8,Vehicle,5904.3333,raw_kinetics
+6,Day 1,GCSF,6152.0,backfilled_combined_am_raw_kinetics_unavailable
+6,Day 1,MPLA,6048.0,backfilled_combined_am_raw_kinetics_unavailable
+6,Day 1,Vehicle,4973.0,backfilled_combined_am_raw_kinetics_unavailable
+7,Day 1,MPLA,14958.5,raw_kinetics
+7,Day 1,Vehicle,13487.0,raw_kinetics
+7,Day 3,MPLA,15377.25,raw_kinetics
+7,Day 3,Vehicle,17679.25,raw_kinetics
+8,Day 1,MPLA,11493.0,raw_kinetics
+8,Day 1,Vehicle,11536.6667,raw_kinetics
+8,Day 3,MPLA,13431.6667,raw_kinetics
+8,Day 3,Vehicle,15960.5,raw_kinetics
+8,Day 7,GCSF,6254.7,raw_kinetics
+8,Day 7,MPLA,7257.3,raw_kinetics
+8,Day 7,Vehicle,5518.1,raw_kinetics
+8,Discharge,MPLA,1579.0,raw_kinetics
+8,Discharge,Vehicle,1797.3333,raw_kinetics
