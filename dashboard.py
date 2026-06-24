@@ -364,10 +364,6 @@ def build_patient_explorer_table(
 def main() -> None:
     st.set_page_config(page_title="Burn Fluorescence Dashboard", layout="wide")
     st.title("Burn Patient Fluorescence Dashboard")
-    st.caption(
-        "Patients 17 and 18 are confirmed missing. "
-        "Patient 14/15/16 shared-plate phagocytosis has been reassigned by in-sheet labels."
-    )
 
     data = load_data(str(BASE))
     phago_ts = data["phago_ts"]
